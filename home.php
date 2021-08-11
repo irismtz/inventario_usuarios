@@ -25,7 +25,7 @@
   <div>
   <center>
   <font size="+5">Inventario de los usuarios <3  :) </font>
-  <img src="images/bts.jpg" aling="center" width="1200" height="600">
+  <img src="images/bienvenidos.png" aling="center" width="1200" height="600">
   <br> <font size="+2">I love BTS <3 </font></br>
   </center>
   </div>
