@@ -26,7 +26,7 @@
   <center>
   <font size="+5">Inventario de los usuarios <3  :) </font>
   <img src="images/bienvenidos.png" aling="center" width="1200" height="600">
-  <br> <font size="+2">I love BTS <3 </font></br>
+  <br> <font size="+2">Sitio para administrar y almacenar información del los usuarios que ingresan a esta plataforma <3 </font></br>
   </center>
   </div>
 </div>
