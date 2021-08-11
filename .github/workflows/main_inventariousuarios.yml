@@ -56,5 +56,5 @@
           with:
             app-name: 'inventariousuarios'
             slot-name: 'production'
-            publish-profile: ${{ secrets.AzureAppService_PublishProfile_280ab9a351d8472f9d14404e1d47ff9e }}
+            publish-profile: ${{ secrets.AzureAppService_PublishProfile_752cfa2ebdbf4572aa4a56f99c413e87 }}
             package: .
