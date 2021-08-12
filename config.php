@@ -1,3 +1,3 @@
 <?php
-$mysqli = new mysqli('localhost', 'root', '', 'crud_basico');
+$mysqli = new mysqli('inventariousuarios.mysql.database.azure.com', 'irismtz@inventariousuarios', 'Martinez19', 'crud_basico');
 ?>
